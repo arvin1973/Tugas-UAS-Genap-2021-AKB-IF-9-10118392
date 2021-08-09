@@ -1,10 +1,16 @@
-package com.example.uas10118392;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.example.uas10118392.activity;
+/*
+ * Tanggal pengerjaan : 5 Agustus 2021
+ * Nim                : 10118392
+ * Nama               : Raden Arvin Rizky A
+ * Kelas              : IF-9
+ * */
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+
+import com.example.uas10118392.R;
 
 public class SplashActivity extends Activity {
 

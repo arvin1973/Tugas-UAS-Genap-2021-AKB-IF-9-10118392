@@ -1,5 +1,10 @@
-package com.example.uas10118392;
-
+package com.example.uas10118392.adapter;
+/*
+ * Tanggal pengerjaan : 5 Agustus 2021
+ * Nim                : 10118392
+ * Nama               : Raden Arvin Rizky A
+ * Kelas              : IF-9
+ * */
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,6 +15,8 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.viewpager.widget.PagerAdapter;
+
+import com.example.uas10118392.R;
 
 public class ViewPagerAdapter extends PagerAdapter {
 

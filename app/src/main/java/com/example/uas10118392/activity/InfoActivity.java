@@ -1,5 +1,10 @@
-package com.example.uas10118392;
-
+package com.example.uas10118392.activity;
+/*
+ * Tanggal pengerjaan : 5 Agustus 2021
+ * Nim                : 10118392
+ * Nama               : Raden Arvin Rizky A
+ * Kelas              : IF-9
+ * */
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
@@ -13,6 +18,9 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.example.uas10118392.MainActivity;
+import com.example.uas10118392.R;
+import com.example.uas10118392.adapter.ViewPagerAdapter;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 public class InfoActivity extends AppCompatActivity {
@@ -54,7 +62,7 @@ public class InfoActivity extends AppCompatActivity {
                 if (getitem(0) < 2)
                     mSLideViewPager.setCurrentItem(getitem(1),true);
                 else {
-                    Intent i = new Intent(InfoActivity.this,MainActivity.class);
+                    Intent i = new Intent(InfoActivity.this, MainActivity.class);
                     startActivity(i);
                     finish();
                 }

@@ -1,5 +1,10 @@
 package com.example.uas10118392;
-
+/*
+ * Tanggal pengerjaan : 5 Agustus 2021
+ * Nim                : 10118392
+ * Nama               : Raden Arvin Rizky A
+ * Kelas              : IF-9
+ * */
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
@@ -7,6 +12,10 @@ import androidx.fragment.app.Fragment;
 import android.os.Bundle;
 import android.view.MenuItem;
 
+import com.example.uas10118392.fragment.InfoFragment;
+import com.example.uas10118392.fragment.MapsFragment;
+import com.example.uas10118392.fragment.ProfileFragment;
+import com.example.uas10118392.fragment.WisataFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {

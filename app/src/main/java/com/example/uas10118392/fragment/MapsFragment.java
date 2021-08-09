@@ -1,5 +1,10 @@
-package com.example.uas10118392;
-
+package com.example.uas10118392.fragment;
+/*
+ * Tanggal pengerjaan : 9 Agustus 2021
+ * Nim                : 10118392
+ * Nama               : Raden Arvin Rizky A
+ * Kelas              : IF-9
+ * */
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
@@ -9,11 +14,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.google.android.gms.maps.CameraUpdateFactory;
+import com.example.uas10118392.model.MarkerModel;
+import com.example.uas10118392.R;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
-import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.firebase.database.ChildEventListener;

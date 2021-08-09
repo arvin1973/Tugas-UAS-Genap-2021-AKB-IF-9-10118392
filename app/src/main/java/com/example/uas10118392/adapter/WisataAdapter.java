@@ -1,5 +1,10 @@
-package com.example.uas10118392;
-
+package com.example.uas10118392.adapter;
+/*
+ * Tanggal pengerjaan : 6 Agustus 2021
+ * Nim                : 10118392
+ * Nama               : Raden Arvin Rizky A
+ * Kelas              : IF-9
+ * */
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -9,11 +14,11 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
+import com.example.uas10118392.R;
+import com.example.uas10118392.model.WisataModel;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.firebase.ui.database.FirebaseRecyclerOptions;
 import com.google.android.material.imageview.ShapeableImageView;
-
-import de.hdodenhof.circleimageview.CircleImageView;
 
 public class WisataAdapter extends FirebaseRecyclerAdapter<WisataModel,WisataAdapter.myViewHolder> {
 
