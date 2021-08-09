@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pannduan Wisata</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Headings
+    <string name="heading_one">Panduan Wisata</string>
+    <string name="heading_two">Daftar List Wisata</string>
+    <string name="heading_three">Info Lokasi Wisata</string>
+
+    //Description
+    <string name="desc_one">Panduan Wisata di wilayah Bandung Raya</string>
+    <string name="desc_two">Melihat daftar dan foto wisata yang berada di wilayah Bandung Raya</string>
+    <string name="desc_three">Infomasi lokasi alamat dan map dari wisata di wilayah Bandung Raya</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_profil"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Profil"/>
+
+    <item
+        android:id="@+id/nav_wisata"
+        android:icon="@drawable/ic_baseline_location_city_24"
+        android:title="Daftar Wisata"/>
+
+    <item
+        android:id="@+id/nav_lokasi"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="Lokasi Wisata"/>
+
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="Info Aplikasi"/>
+
+
+
+
+</menu>
