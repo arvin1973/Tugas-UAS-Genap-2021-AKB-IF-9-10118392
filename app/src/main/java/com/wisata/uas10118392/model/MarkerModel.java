@@ -1,4 +1,4 @@
-package com.example.uas10118392.model;
+package com.wisata.uas10118392.model;
 /*
  * Tanggal pengerjaan : 9 Agustus 2021
  * Nim                : 10118392

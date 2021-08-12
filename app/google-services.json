@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:481490316467:android:daa4725308b7893ab9d4c6",
         "android_client_info": {
-          "package_name": "com.example.a10118392uas"
+          "package_name": "com.wisata.a10118392uas"
         }
       },
       "oauth_client": [
@@ -39,7 +39,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:481490316467:android:7f91cf762f5ff695b9d4c6",
         "android_client_info": {
-          "package_name": "com.example.uas10118392"
+          "package_name": "com.wisata.uas10118392"
         }
       },
       "oauth_client": [

@@ -1,4 +1,4 @@
-package com.example.uas10118392;
+package com.wisata.uas10118392;
 /*
  * Tanggal pengerjaan : 5 Agustus 2021
  * Nim                : 10118392
@@ -12,10 +12,10 @@ import androidx.fragment.app.Fragment;
 import android.os.Bundle;
 import android.view.MenuItem;
 
-import com.example.uas10118392.fragment.InfoFragment;
-import com.example.uas10118392.fragment.MapsFragment;
-import com.example.uas10118392.fragment.ProfileFragment;
-import com.example.uas10118392.fragment.WisataFragment;
+import com.wisata.uas10118392.fragment.InfoFragment;
+import com.wisata.uas10118392.fragment.MapsFragment;
+import com.wisata.uas10118392.fragment.ProfileFragment;
+import com.wisata.uas10118392.fragment.WisataFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {

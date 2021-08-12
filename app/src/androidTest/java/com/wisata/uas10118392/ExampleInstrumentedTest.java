@@ -1,4 +1,4 @@
-package com.example.uas10118392;
+package com.wisata.uas10118392;
 
 import android.content.Context;
 

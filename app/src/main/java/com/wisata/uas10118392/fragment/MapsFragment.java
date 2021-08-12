@@ -1,4 +1,4 @@
-package com.example.uas10118392.fragment;
+package com.wisata.uas10118392.fragment;
 /*
  * Tanggal pengerjaan : 9 Agustus 2021
  * Nim                : 10118392
@@ -14,8 +14,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.uas10118392.model.MarkerModel;
-import com.example.uas10118392.R;
+import com.wisata.uas10118392.model.MarkerModel;
+import com.wisata.uas10118392.R;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;

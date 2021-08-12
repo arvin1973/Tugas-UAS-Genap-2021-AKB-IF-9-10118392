@@ -1,4 +1,4 @@
-package com.example.uas10118392.activity;
+package com.wisata.uas10118392.activity;
 /*
  * Tanggal pengerjaan : 5 Agustus 2021
  * Nim                : 10118392
@@ -18,9 +18,9 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.example.uas10118392.MainActivity;
-import com.example.uas10118392.R;
-import com.example.uas10118392.adapter.ViewPagerAdapter;
+import com.wisata.uas10118392.MainActivity;
+import com.wisata.uas10118392.R;
+import com.wisata.uas10118392.adapter.ViewPagerAdapter;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 public class InfoActivity extends AppCompatActivity {

@@ -1,4 +1,4 @@
-package com.example.uas10118392.fragment;
+package com.wisata.uas10118392.fragment;
 /*
  * Tanggal pengerjaan : 6 Agustus 2021
  * Nim                : 10118392
@@ -15,9 +15,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.uas10118392.R;
-import com.example.uas10118392.adapter.WisataAdapter;
-import com.example.uas10118392.model.WisataModel;
+import com.wisata.uas10118392.R;
+import com.wisata.uas10118392.adapter.WisataAdapter;
+import com.wisata.uas10118392.model.WisataModel;
 import com.firebase.ui.database.FirebaseRecyclerOptions;
 import com.google.firebase.database.FirebaseDatabase;
 

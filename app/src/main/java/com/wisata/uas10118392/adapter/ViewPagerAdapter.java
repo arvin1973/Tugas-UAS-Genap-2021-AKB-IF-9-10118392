@@ -1,4 +1,4 @@
-package com.example.uas10118392.adapter;
+package com.wisata.uas10118392.adapter;
 /*
  * Tanggal pengerjaan : 5 Agustus 2021
  * Nim                : 10118392
@@ -16,7 +16,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.viewpager.widget.PagerAdapter;
 
-import com.example.uas10118392.R;
+import com.wisata.uas10118392.R;
 
 public class ViewPagerAdapter extends PagerAdapter {
 
